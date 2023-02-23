@@ -1,0 +1,26 @@
+[
+  {
+    "UserID": 1,
+    "Message": "this is good site",
+    "IsAdmin": false,
+    "ID": 1,
+    "CreateAt": "2023-02-22T22:15:31.3420871Z",
+    "UpdateAt": null
+  },
+  {
+    "UserID": 2,
+    "Message": "Amazing",
+    "IsAdmin": false,
+    "ID": 2,
+    "CreateAt": "2023-02-22T22:15:31.3648623Z",
+    "UpdateAt": null
+  },
+  {
+    "UserID": 3,
+    "Message": "what's up",
+    "IsAdmin": true,
+    "ID": 3,
+    "CreateAt": "2023-02-23T06:56:38.1448237Z",
+    "UpdateAt": null
+  }
+]

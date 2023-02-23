@@ -1,0 +1,12 @@
+[
+  {
+    "Cost": 3000000.0,
+    "UserID": 1,
+    "CourseID": 3,
+    "IsPaid": true,
+    "type": 0,
+    "ID": 1,
+    "CreateAt": "2023-02-23T06:51:47.568002Z",
+    "UpdateAt": null
+  }
+]

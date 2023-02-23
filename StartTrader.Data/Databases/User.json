@@ -1,0 +1,50 @@
+[
+  {
+    "FirstName": "12345",
+    "LastName": "Usmonaliev",
+    "Email": "usmonaliyevkozimjon@gmail.com",
+    "Password": "password",
+    "Address": "Usmonaliev",
+    "Phone": "998911670749",
+    "role": 0,
+    "ID": 1,
+    "CreateAt": "2023-02-22T17:43:01.8473998Z",
+    "UpdateAt": "2023-02-22T17:47:59.5279213Z"
+  },
+  {
+    "FirstName": "Kozimjon",
+    "LastName": "Usmonaliev",
+    "Email": "usmonaliyevnozimjon@gmail.com",
+    "Password": "password",
+    "Address": "Andijon",
+    "Phone": "998911670749",
+    "role": 0,
+    "ID": 2,
+    "CreateAt": "2023-02-22T17:43:22.0811314Z",
+    "UpdateAt": null
+  },
+  {
+    "FirstName": "Alica",
+    "LastName": "ALICOVA",
+    "Email": "aliyeva12@gmail.com",
+    "Password": "password",
+    "Address": "Tashkent",
+    "Phone": "124548215484",
+    "role": 0,
+    "ID": 3,
+    "CreateAt": "2023-02-22T23:16:51.9116873Z",
+    "UpdateAt": null
+  },
+  {
+    "FirstName": "Alex",
+    "LastName": "sasha",
+    "Email": "alex@gmail.com",
+    "Password": "new",
+    "Address": "new york",
+    "Phone": "1542248451",
+    "role": 0,
+    "ID": 4,
+    "CreateAt": "2023-02-23T06:59:49.5551159Z",
+    "UpdateAt": null
+  }
+]
